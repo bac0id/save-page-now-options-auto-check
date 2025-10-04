@@ -1,6 +1,6 @@
 # Save Page Now Options Auto-Check
 
-A Tampermonkey script that automatically checks "Capture outlinks", "Capture all", and "Capture screenshot" on the Internet Archive's [Save Page Now](https://web.archive.org/save) page.
+A Tampermonkey script that automatically checks "Save outlinks", "Save error pages", and "Save screenshot" on the Internet Archive's [Save Page Now](https://web.archive.org/save) page.
 
 ## Installation
 
