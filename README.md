@@ -15,7 +15,7 @@ Automatically checks the following options upon page load:
 1.  **Install a User Script Manager:**
     - [Tampermonkey](https://www.tampermonkey.net/)
 2.  **Install the Script:**
-    - Click [here](https://raw.githubusercontent.com/bac0id/save-page-now-options-auto-check/refs/heads/main/main.js) to open the raw script file.
+    - Click [here](main.js) to open the raw script file.
     - Your Userscript manager should prompt you to click Install.
 
 ## 🛠 Usage
