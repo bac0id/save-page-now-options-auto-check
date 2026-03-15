@@ -1,22 +1,30 @@
 # Save Page Now Options Auto-Check
 
-A Tampermonkey script that automatically checks "Save outlinks", "Save error pages", and "Save screenshot" on the Internet Archive's [Save Page Now](https://web.archive.org/save) page.
+A lightweight userscript that streamlines the Internet Archive's [Save Page Now](https://web.archive.org/save) experience by automatically enabling advanced capture options.
 
-## Installation
+## ✨ Features
 
-1.  You need a user script manager like [Tampermonkey](https://www.tampermonkey.net/).
-2.  Click here to install the script: **[Install `main.js`](https://raw.githubusercontent.com/bac0id/save-page-now-options-auto-check/refs/heads/main/main.js)**
+Automatically checks the following options upon page load:
 
-Your script manager should prompt you to confirm the installation, but if it doesn't, you can add the script manually.
+- ✅ Save outlinks
+- ✅ Save error pages (404, 50x, etc.)
+- ✅ Save screenshot
 
-## Usage
+## 🚀 Installation
 
-After installation, the script runs automatically. Visit the [Save Page Now](https://web.archive.org/save) page, and the capture options will already be checked for you.
+1.  **Install a User Script Manager:**
+    - [Tampermonkey](https://www.tampermonkey.net/)
+2.  **Install the Script:**
+    - Click [here](https://raw.githubusercontent.com/bac0id/save-page-now-options-auto-check/refs/heads/main/main.js) to open the raw script file.
+    - Your Userscript manager should prompt you to click Install.
 
-## Contributing
+## 🛠 Usage
 
-Contributions are welcome. Please open an issue or submit a pull request for any bugs or improvements.
+Once installed, simply visit:
+**[https://web.archive.org/save](https://web.archive.org/save)**
 
-## License
+The options will be pre-selected for you instantly, saving you three clicks every time you archive a page.
+
+## ⚖️ License
 
 Distributed under the [GNU General Public License v3.0](LICENSE).
